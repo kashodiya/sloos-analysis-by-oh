@@ -2,6 +2,8 @@
 
 A professional interactive data analysis application for the **Senior Loan Officer Opinion Survey (SLOOS)** with real Federal Reserve data and AI-powered insights using AWS Bedrock.
 
+> 📋 **[View Executive Summary](EXECUTIVE_SUMMARY.md)** - Complete project overview with ROI analysis, cost savings ($8,985), and delivery metrics
+
 ---
 
 ## 🚀 Quick Start
