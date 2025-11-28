@@ -57,6 +57,28 @@ This application uses **real SLOOS data** downloaded from the Federal Reserve's 
 
 ---
 
+## 📸 Screenshots
+
+### Executive Dashboard
+![Executive Dashboard](screenshots/01_executive_dashboard.png)
+*Real-time metrics, lending standards trends, and loan demand visualization with Federal Reserve data*
+
+### Data Explorer
+![Data Explorer](screenshots/02_data_explorer.png)
+*Interactive filtering, data visualization, and detailed analysis tools*
+
+### AI-Powered Analysis
+![AI Analysis](screenshots/04_ai_analysis.png)
+*AWS Bedrock integration with Claude Sonnet 4.5 for intelligent insights*
+
+### Data Management
+![Data Management](screenshots/05_data_management.png)
+*FRED data integration, database statistics, and update controls*
+
+> 📁 [View all screenshots](screenshots/) | 🔄 [Regenerate screenshots](take_screenshots.py)
+
+---
+
 ## 🎯 Features
 
 ### 1. 📈 Executive Dashboard

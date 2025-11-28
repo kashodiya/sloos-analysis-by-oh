@@ -5,6 +5,8 @@ This directory contains screenshots of the SLOOS Interactive Data Analysis Appli
 ## Screenshots
 
 ### 1. Executive Dashboard
+![Executive Dashboard](01_executive_dashboard.png)
+
 **File:** `01_executive_dashboard.png`
 
 The main dashboard showing:
@@ -14,7 +16,11 @@ The main dashboard showing:
 - Recent data table
 - Real-time data from Federal Reserve (FRED)
 
+---
+
 ### 2. Data Explorer
+![Data Explorer](02_data_explorer.png)
+
 **File:** `02_data_explorer.png`
 
 Interactive data exploration page featuring:
@@ -23,7 +29,11 @@ Interactive data exploration page featuring:
 - Detailed data table with sorting and filtering
 - Export capabilities
 
+---
+
 ### 3. Data Explorer (Scrolled View)
+![Data Explorer Scrolled](03_data_explorer_scrolled.png)
+
 **File:** `03_data_explorer_scrolled.png`
 
 Detailed view of the Data Explorer showing:
@@ -31,7 +41,11 @@ Detailed view of the Data Explorer showing:
 - Additional data visualizations
 - Complete data table
 
+---
+
 ### 4. AI Analysis
+![AI Analysis](04_ai_analysis.png)
+
 **File:** `04_ai_analysis.png`
 
 AI-powered analysis page with:
@@ -41,7 +55,11 @@ AI-powered analysis page with:
 - Trend analysis
 - Natural language explanations
 
+---
+
 ### 5. Data Management
+![Data Management](05_data_management.png)
+
 **File:** `05_data_management.png`
 
 Data management interface showing:
@@ -51,7 +69,11 @@ Data management interface showing:
 - Data verification tools
 - Real data status
 
+---
+
 ### 6. Dashboard (Detail View)
+![Dashboard Scrolled](06_dashboard_scrolled.png)
+
 **File:** `06_dashboard_scrolled.png`
 
 Scrolled view of the dashboard highlighting:
