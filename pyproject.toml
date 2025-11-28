@@ -1,0 +1,15 @@
+[project]
+name = "sloos-analysis-by-oh"
+version = "0.1.0"
+description = "Professional SLOOS Interactive Data Analysis Application"
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit>=1.31.0",
+    "boto3>=1.34.0",
+    "pandas>=2.2.0",
+    "plotly>=5.18.0",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "openpyxl>=3.1.0",
+    "sqlalchemy>=2.0.0",
+]

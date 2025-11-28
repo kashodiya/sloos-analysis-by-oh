@@ -1,0 +1,114 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.virtualenv/
+
+# UV Package Manager
+.uv/
+uv.lock
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+sloos_data.db
+
+# Logs
+*.log
+app.log
+*.log.*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# AWS Credentials (should never be committed)
+.aws/
+credentials
+config
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Documentation builds
+docs/_build/
+site/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# OS files
+Thumbs.db
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# Project specific
+data/
+downloads/
+cache/
+tmp/
+
+# Backup files
+*.md.backup
+*.py.backup
+README_original.md
+
+# Documentation that shouldn't be in git
+APPLICATION_README.md
+DEPLOYMENT_SUMMARY.md
+PROJECT_FILES.md
+PROJECT_GUIDE.md
+QUICKSTART.md
